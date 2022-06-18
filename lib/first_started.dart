@@ -22,7 +22,7 @@ class FirstStarted extends StatelessWidget {
 ,
           ),
           ),
-          Padding(padding: const EdgeInsets.only(top: 427,left: 150, right:90),
+          Padding(padding: const EdgeInsets.only(top: 427,left: 180, right:90),
           child: Text('Maximize Revenue', style:
           GoogleFonts.poppins(
             color: Colors.white,
@@ -32,7 +32,7 @@ class FirstStarted extends StatelessWidget {
           )
           ),
           Padding(
-            padding: const EdgeInsets.only(top:460,left: 150, right:90),
+            padding: const EdgeInsets.only(top:480,left: 180, right:90),
             child: Text('Gain more profit from cryptocurrency\n without any risk involved',
              style:
           GoogleFonts.poppins(
@@ -44,7 +44,7 @@ class FirstStarted extends StatelessWidget {
             ),
           ),
           Padding(
-            padding: const EdgeInsets.only(top:520,left: 220, right:148),
+            padding: const EdgeInsets.only(top:540,left: 250, right:148),
             child: Image.asset('assets/purple_button.png',
             width: 80,
             height: 80,),
